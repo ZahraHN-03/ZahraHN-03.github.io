@@ -86,13 +86,12 @@ function Home() {
                 errors, and 25 line of code, but
                 <br />i can draw you a flower with python
               </p>
-              <video
+              <img
                 className="px-8"
-                src="src\components\Flower.mp4"
+                src="src\components\Flower 4_7_2023 4_42_57 AM.png"
                 height={500}
                 width={500}
-                controls
-              ></video>
+              ></img>
             </div>
           </section>
           <section className="min-h-screen bg-neutral-900 snap-y">
