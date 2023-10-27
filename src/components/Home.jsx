@@ -84,7 +84,7 @@ function Home() {
                 Usually i have 2500000 bugs, 2500
                 <br />
                 errors, and 25 line of code, but
-                <br />i can darw you a flower with python
+                <br />i can draw you a flower with python
               </p>
               <video
                 className="px-8"
