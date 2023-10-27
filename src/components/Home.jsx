@@ -88,7 +88,7 @@ function Home() {
               </p>
               <video
                 className="px-8"
-                src="C:\Users\zy143\Portfolio\src\assets\Flower.mp4"
+                src="public\Flower.mp4"
                 height={500}
                 width={500}
                 controls
